@@ -1,2 +1,2 @@
 # sample_quantiles
-Studying bias in sample quantile definitions.  Numpy version at least 1.22, Python 3.8.
+Studying bias in sample quantile definitions.  Written in Python 3.10 and probably works with some earlier versions.
